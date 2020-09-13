@@ -1,3 +1,9 @@
+ ## what is Docker? 
+ 
+ A Docker is a set of platform service products that use OS-level virtualization to deliver software in packages called containers. The great advantage of Docker is that it makes your deployment easy and when the time comes you can even deploy it on multiple machines with almost no extra effort.
+
+
+
 ## Basic Terminologies
 
 1- Docker Image — In very simple terms docker image is just like an ISO image file used to install any OS. You can view all docker images(publicly available on DockerHub)
